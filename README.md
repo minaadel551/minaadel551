@@ -1,4 +1,4 @@
-👋 Hi, I’m Mina Adel
+👋 Hi, I’m Mina Adel  ![Mina](https://img.shields.io/badge/Mina%20-Adel-red?style=plastic)
 
 👀 I’m interested in all IT related
 
